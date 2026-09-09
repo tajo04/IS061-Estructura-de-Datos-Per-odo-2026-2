@@ -1,19 +1,9 @@
-[REPARTO.md](https://github.com/user-attachments/files/31981651/REPARTO.md)
 # Reparto interno del equipo
-
-> Completar con los nombres reales de cada integrante antes de entregar.
-> Cada persona debe tener al menos un commit propio en el repositorio.
 
 | Integrante (nombre real) | Qué hizo |
 |---------------------------|----------|
-| [Nombre 1]                | [ej: métodos `agregar`, `eliminar` y `__init__` de agenda.py] |
-| [Nombre 2]                | [ej: métodos `contiene`, `telefono_de`, `nombres`, `__len__`] |
-| [Nombre 3]                | [ej: pruebas de test_agenda.py] |
-| [Nombre 4]                | [ej: medicion.py y resultados.md] |
+| Jerónimo Granda | Implementó los métodos `__init__`, `__len__`, `contiene` y `telefono_de` de `agenda.py`. También elaboró las pruebas de agenda vacía, búsqueda existente/inexistente y consulta de teléfono. |
+| Alejandro Ospina | Implementó `_buscar`, `agregar`, `eliminar` y `nombres` de `agenda.py`. Elaboró `medicion.py`, `resultados.md` y las pruebas de nombre repetido, errores y orden alfabético. |
 
-Recuerden: cada integrante debe poder señalar en el repositorio, con
-su nombre en el commit, al menos una de estas cuatro cosas:
-- Dos o más métodos de la clase Agenda.
-- Tres o más pruebas de pytest (incluyendo un caso borde).
-- El programa de medición completo.
-- resultados.md (tabla + las tres frases de interpretación).
+Cada integrante debe tener al menos un commit propio con su nombre real que
+respalde los aportes indicados en esta ficha.

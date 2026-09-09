@@ -1,4 +1,3 @@
-[resultados.md](https://github.com/user-attachments/files/31981667/resultados.md)
 # Resultados de la medición
 
 Semilla usada: `random.seed(11)`.
